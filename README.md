@@ -1,7 +1,7 @@
 
 👋 Hi there
 
-👀 I’m interested in Art, Theatre, Movies, Music, Software Development
+👀 I’m interested in Art, Games, Movies, Music, Software Development
 
 🌱 I’m currently creating projects with Asp.Net MVC, .Net Core, Web Development, C# Windows Forms, MsSQL
 
