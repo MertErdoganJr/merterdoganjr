@@ -7,6 +7,8 @@
 
 **:speech_balloon: How to reach me *www.linkedin.com/in/merterdgn94***
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MertErdoganJr&label=Profile%20views&color=brightgreen&style=plastic" alt="MertErdoganJr" /> </p>
+
 ## 🌐 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/merterdgn94/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/merterdgnjr) 
 
