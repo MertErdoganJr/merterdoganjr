@@ -17,5 +17,5 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,jquery,mysql,visualstudio,discord,github,linkedin,ai,ps)](https://skillicons.dev)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MertErdoganJr&theme=vision-friendly-dark&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=MertErdoganJr&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
